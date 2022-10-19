@@ -1,0 +1,6 @@
+{
+  "filename": "demo3.md",
+  "__html": "<h1 id=\"%E8%B7%A8%E7%9B%AE%E5%BD%95%E6%96%87%E6%A1%A3%E4%B9%8B%E9%97%B4%E8%B7%B3%E8%BD%AC%E3%80%81%E5%9B%BE%E7%89%87%E5%BC%95%E7%94%A8%E7%9A%84%E7%A4%BA%E4%BE%8B\">跨目录文档之间跳转、图片引用的示例 <a class=\"header-anchor\" href=\"#%E8%B7%A8%E7%9B%AE%E5%BD%95%E6%96%87%E6%A1%A3%E4%B9%8B%E9%97%B4%E8%B7%B3%E8%BD%AC%E3%80%81%E5%9B%BE%E7%89%87%E5%BC%95%E7%94%A8%E7%9A%84%E7%A4%BA%E4%BE%8B\">#</a></h1>\n<p>这是一段文字，将要跳转到demo1。\n文档之间的跳转链接按照文件目录之间的相对关系配置即可，推荐在同一语言目录下的不同文件夹间跳转，以缩短配置路径。\n点击跳转： <a href=\"../demo1.md\">demo1.md</a>。</p>\n<p>图片的引用，支持绝对引用和相对引用，如果是相对引用，同文档之间的相互引用一样，是按照文件之间的相对路径进行处理的。比如\n<img src=\"../img/brhtqqzh.jpeg\" alt=\"\"></p>\n",
+  "link": "\\zh-cn\\docs\\dir\\demo3.html",
+  "meta": {}
+}
