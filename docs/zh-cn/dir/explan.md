@@ -1,3 +1,9 @@
+---
+title: 名词解释
+keywords: 集群,服务, 角色
+description: some description
+---
+
 ## 集群
 
 通过一组服务和主机共同构成的大数据存储与计算系统。

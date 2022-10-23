@@ -7,7 +7,7 @@
     "build": "docsite build"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.0",
+    "@babel/core": "^7.19.6",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/plugin-proposal-decorators": "^7.6.0",
     "@babel/plugin-proposal-do-expressions": "^7.6.0",
@@ -32,6 +32,7 @@
     "@babel/register": "^7.6.0",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.6",
+    "babel-plugin-component": "^1.1.1",
     "css-loader": "0.6.12",
     "docsite": "^1.1.0",
     "eslint": "^3.6.0",

@@ -28,9 +28,31 @@
       "meta": {}
     },
     {
-      "filename": "advice_config.md",
-      "link": "\\zh-cn\\docs\\dir\\advice_config.html",
-      "meta": {}
+      "filename": "add-service.md",
+      "link": "\\zh-cn\\docs\\dir\\add-service.html",
+      "meta": {
+        "title": "建议配置",
+        "keywords": "服务器要求",
+        "description": "some description"
+      }
+    },
+    {
+      "filename": "advice-config.md",
+      "link": "\\zh-cn\\docs\\dir\\advice-config.html",
+      "meta": {
+        "title": "建议配置",
+        "keywords": "服务器要求",
+        "description": "some description"
+      }
+    },
+    {
+      "filename": "create-cluster.md",
+      "link": "\\zh-cn\\docs\\dir\\create-cluster.html",
+      "meta": {
+        "title": "建议配置",
+        "keywords": "服务器要求",
+        "description": "some description"
+      }
     },
     {
       "filename": "demo3.md",
@@ -38,9 +60,31 @@
       "meta": {}
     },
     {
+      "filename": "environment.md",
+      "link": "\\zh-cn\\docs\\dir\\environment.html",
+      "meta": {
+        "title": "建议配置",
+        "keywords": "服务器要求",
+        "description": "some description"
+      }
+    },
+    {
       "filename": "explan.md",
       "link": "\\zh-cn\\docs\\dir\\explan.html",
-      "meta": {}
+      "meta": {
+        "title": "名词解释",
+        "keywords": "集群,服务, 角色",
+        "description": "some description"
+      }
+    },
+    {
+      "filename": "quick-start.md",
+      "link": "\\zh-cn\\docs\\dir\\quick-start.html",
+      "meta": {
+        "title": "建议配置",
+        "keywords": "服务器要求",
+        "description": "some description"
+      }
     }
   ]
 }

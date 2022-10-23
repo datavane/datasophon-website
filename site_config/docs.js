@@ -38,7 +38,7 @@ export default {
           },
           {
             title: '建议配置',
-            link: '/zh-cn/docs/dir/advice_config.html',
+            link: '/zh-cn/docs/dir/advice-config.html',
           },
           {
             title: '名称解释',
@@ -55,10 +55,36 @@ export default {
           },
           {
             title: '快速部署',
-            link: '/zh-cn/docs/dir/deploy.html',
+            link: '/zh-cn/docs/dir/quick-start.html',
           }
         ],
       },
+      {
+        title: '使用手册',
+        children: [
+          {
+            title: '创建集群',
+            link: '/zh-cn/docs/dir/create-cluster.html',
+          },
+          {
+            title: '添加服务',
+            link: '/zh-cn/docs/dir/add-service.html',
+          }
+        ],
+      },
+      {
+        title: '架构设计',
+        children: [
+          {
+            title: '环境配置',
+            link: '/zh-cn/docs/dir/environment.html',
+          },
+          {
+            title: '快速部署',
+            link: '/zh-cn/docs/dir/deploy.html',
+          }
+        ],
+      }
     ],
     barText: '文档',
   },
