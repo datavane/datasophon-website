@@ -44,7 +44,7 @@ export default {
         {
           img: '/img/feature_hogh.png',
           title: '指标丰富',
-          content: '监控指标全面丰富，基于生产实践展示用户最关心的监控指标，支持集群整体监控和组件级别监控。',
+          content: '监控指标全面丰富，基于生产实践展示用户最关心的监控指标，支持集群整体监控和组件级别监控',
         },
         {
           img: '/img/feature_runtime.png',
@@ -71,22 +71,7 @@ export default {
       title: '用户',
       desc: <span>简单描述</span>,
       list: [
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
+        '/img/iflytek.png'
       ],
     },
   },

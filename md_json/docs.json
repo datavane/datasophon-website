@@ -20,10 +20,7 @@
     {
       "filename": "demo1.md",
       "link": "\\zh-cn\\docs\\demo1.html",
-      "meta": {
-        "keywords": "keywords1,keywords2,keywords3",
-        "description": "some description"
-      }
+      "meta": {}
     },
     {
       "filename": "demo2.md",
@@ -31,8 +28,18 @@
       "meta": {}
     },
     {
+      "filename": "advice_config.md",
+      "link": "\\zh-cn\\docs\\dir\\advice_config.html",
+      "meta": {}
+    },
+    {
       "filename": "demo3.md",
       "link": "\\zh-cn\\docs\\dir\\demo3.html",
+      "meta": {}
+    },
+    {
+      "filename": "explan.md",
+      "link": "\\zh-cn\\docs\\dir\\explan.html",
       "meta": {}
     }
   ]
