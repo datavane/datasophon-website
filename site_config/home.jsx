@@ -53,8 +53,8 @@ export default {
         },
         {
           img: '/img/feature_maintenance.png',
-          title: '特性6',
-          content: '特性6的简单概括',
+          title: '高可扩展性',
+          content: '用户可通过配置的方式快速集成第三方组件',
         },
       ],
     },
