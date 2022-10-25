@@ -1,0 +1,31 @@
+@startuml
+start
+
+if (Github已有项目?) then (yes)
+  :项目报备;
+  :成员确定;
+  :License确定;
+else (no)
+  if (内部已有项目?) then (yes)
+
+    :项目报备;
+    repeat :代码内部审核;
+
+    backward :代码整改;
+    note right: <color:red>脱敏，安全扫描等
+    repeat while (<color:red>审核通过?) is (<color:red>否) not (<color:green>是)
+    :版本发布、更新;
+  else (no)
+    :项目报备;
+    :成员确定;
+    :License确定;
+endif
+
+endif
+  :Github仓库;
+  note right: <color:red>1.Github项目目录模板推介 \n2.Github Action配置推介 \n3.项目文档GithubPage配置推介
+  :周会机制;
+  :自运营;
+  note right: <color:red>内部已有版本更新到开源发布依然需要走代码审核
+stop
+@enduml
