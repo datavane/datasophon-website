@@ -104,7 +104,7 @@ const config = {
                 value: '<hr style="margin: 0.3rem 0;">',
               },
               {
-                href: 'https://github.com/gaodayu168/datasophon/',
+                href: 'https://github.com/gaodayu168/datasophon-website/',
                 label: 'Help Us Translate',
               },
             ],
@@ -117,7 +117,7 @@ const config = {
         },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/iflytek/aiges',
+            href: 'https://github.com/gaodayu168/datasophon',
             label: 'GitHub',
             position: 'right',
           },
@@ -161,7 +161,7 @@ const config = {
               },
               {
                 label: 'GitHub Issues',
-                href: 'https://github.com/iflytek/aiges/issues',
+                href: 'https://github.com/gaodayu168/datasophon/issues',
               },
             ],
           },
