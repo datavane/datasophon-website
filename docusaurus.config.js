@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AthenaServingFrameWork Doc',
-  tagline: 'An Opensource AI model serving framework with high performance, flexible loading mechanism...',
+  title: 'DataSophon',
+  tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据服务组件和节点的能力，帮助您快速构建起稳定，高效的大数据集群服务',
   url: 'https://gaodayu168.github.io',
   baseUrl: '/datasophon-website/',
   onBrokenLinks: 'throw',
@@ -54,7 +54,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/iflytek/athena_website/tree/master',
+            'https://github.com/gaodayu168/datasophon-website/',
         },
         blog: {
           showReadingTime: true,
@@ -63,7 +63,7 @@ const config = {
           blogSidebarTitle: '全部博文',
           blogSidebarCount: 'ALL',
           editUrl:
-            'https://github.com/iflytek/athena_website/tree/master',
+            'https://github.com/gaodayu168/datasophon-websiter',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -81,9 +81,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'AthenaServingFramework Doc',
+        title: 'DataSophon',
         logo: {
-          alt: 'AthenaServingFramework Logo',
+          alt: 'DataSophon Logo',
           src: 'img/brand.png',
         },
         items: [
