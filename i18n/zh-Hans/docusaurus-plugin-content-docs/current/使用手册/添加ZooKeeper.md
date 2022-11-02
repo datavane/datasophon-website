@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-sidebar_label: 介绍
+sidebar_position: 2
+sidebar_label: 添加ZooKeeper
 ---
 ![](img/polaris-w.png)
 

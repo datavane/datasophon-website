@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Introduce
+sidebar_label: 创建集群
 ---
 # Introduce
 

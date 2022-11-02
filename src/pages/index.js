@@ -34,7 +34,7 @@ function VideoContainer() {
           <h2>
            
           </h2>
-          <div className={styles.ytVideo}>
+          {/* <div className={styles.ytVideo}>
           <iframe src="https://player.bilibili.com/player.html?aid=343342962&bvid=BV1j94y1978W&cid=771685383&page=1&high_quality=1" 
           scrolling="no" 
           border="0" 
@@ -44,7 +44,7 @@ function VideoContainer() {
           framespacing="0"
            allowfullscreen="true">
              </iframe>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

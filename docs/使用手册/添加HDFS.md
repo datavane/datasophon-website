@@ -1,34 +1,32 @@
 ---
 sidebar_position: 2
-sidebar_label: 添加Zookeeper
+sidebar_label: 添加HDFS
 ---
-# Deployment Documentation
+## Polaris 部署文档 (待修改)
 
-## Polaris Deployment documentation (to be modified)
+### 简介
 
-### Introduction
+部署配置中心&服务发现Polaris套件，包括Cynosure、Companion、zk集群，采用容器化方案。
 
-Deployment Configuration Center & Service Discovery Polaris suite, including Cynosure, Companion, and zk clusters, using a containerized solution.
+### 基础环境
 
-### Basic environment
-
-docker version 1.12.x+, please install it by yourself.
+docker版本1.12.x +，请自行安装。
 
 
-### ZK cluster
+### ZK集群
 
-The zk installation documentation will not be repeated here.
+zk安装文档不再此赘述。
 
 ### Cynosure
 
 
-Note: The parameters to start the company represent the company's ip address-h10.1.86.211, port-p 6868, zk cluster address-z 10.1.86.211:2181,10.1.86.70:2181,10.1.86.212:2181, cynosure address- w https://10.1.87.69:8095**
+**注：启动companion参数分别代表companion的ip地址-h10.1.86.211，端口-p6868，zk集群地址-z10.1.86.211:2181,10.1.86.70:2181,10.1.86.212:2181，cynosure地址-whttps://10.1.87.69:8095**
 
-After the startup is complete, you can enter the following url to verify whether it started normally. If it starts normally, there will be a return result. <br/>
-http://ip:port/finder/query_zk_info?id=en project=AIaaS&group=aitest&service=iatExecutor&version=2.0.0<br/>
-(ip\port is replaced according to the actual situation)
+启动完成后，可以输入以下url验证是否正常启动了。如果正常启动了，会有返回结果。<br/>
+http://ip:port/finder/query_zk_info?project=AIaaS&group=aitest&service=iatExecutor&version=2.0.0<br/>
+(ip\port根据实际情况替换)
 
-### Mysql script
+### Mysql脚本
 
 ```sql
 

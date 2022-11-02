@@ -40,14 +40,14 @@ const config = {
             label: '最新版本(unreleased)',
             path: 'current',
             },
-            "2.2.0": {
-              label: 'release-2.2.0',
-              path: '2.2.0',
-              },
-            "2.1.0": {
-              label: 'release-2.1.0',
-              path: '2.1.0',
-              },
+            // "2.2.0": {
+            //   label: 'release-2.2.0',
+            //   path: '2.2.0',
+            //   },
+            // "2.1.0": {
+            //   label: 'release-2.1.0',
+            //   path: '2.1.0',
+            //   },
           },
           path: "docs",
           sidebarPath: require.resolve('./sidebars.js'),
@@ -138,13 +138,13 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/athenaserving',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/athenaserving',
+              // },
               {
                 label: 'Github Discussion',
-                href: 'https://github.com/xfyun/proposals/discussions',
+                href: 'https://github.com/gaodayu168/datasophon',
               },
               // {
               //   label: 'Twitter',
