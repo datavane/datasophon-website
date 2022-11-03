@@ -1,8 +1,8 @@
 ---
 slug: welcome
 title: Welcome
-authors: [ybyang7, sea-wyq, jhr]
+authors: []
 tags: [opensource, athenaserving]
 ---
 
-Welcome to contribute AthenaServing Docs and Blogs.
+Welcome to contribute DataSophon Docs and Blogs.
