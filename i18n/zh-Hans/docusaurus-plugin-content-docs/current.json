@@ -27,8 +27,8 @@
     "message": "Examples demonstrating the usage of CLI commands.",
     "description": "The generated-index page description for category Loader in sidebar docSidebar"
   },
-  "sidebar.docSidebar.category.Create Wrapper": {
-    "message": "Create Wrapper",
+  "sidebar.docSidebar.category.Add Service": {
+    "message": "添加服务",
     "description": "The label for category Create Wrapper in sidebar docSidebar"
   }
 }

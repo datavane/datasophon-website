@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['en', "zh-Hans"],
+    locales: ["zh-Hans"],
 
   },
 
@@ -40,14 +40,6 @@ const config = {
             label: '最新版本(unreleased)',
             path: 'current',
             },
-            // "2.2.0": {
-            //   label: 'release-2.2.0',
-            //   path: '2.2.0',
-            //   },
-            // "2.1.0": {
-            //   label: 'release-2.1.0',
-            //   path: '2.1.0',
-            //   },
           },
           path: "docs",
           sidebarPath: require.resolve('./sidebars.js'),
@@ -109,12 +101,12 @@ const config = {
               },
             ],
           },
-        {
-          type: 'docsVersionDropdown',
-          position: 'right',
-          dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
-          dropdownActiveClassDisabled: true,
-        },
+        // {
+        //   type: 'docsVersionDropdown',
+        //   position: 'right',
+        //   dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+        //   dropdownActiveClassDisabled: true,
+        // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/gaodayu168/datasophon',
