@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        用户仅需几步即可完成初始化环境配置，1小时内即可完成300个节点规模的大数据集群部署。
+        用户仅需几步即可完成初始化环境配置，可快速完成300个节点规模的大数据集群部署。
       </>
     ),
   },
