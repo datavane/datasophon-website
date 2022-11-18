@@ -42,9 +42,9 @@ GitHub 上的项目都有一个 Fork 按钮，我们需要先将开源项目 for
 ```bash
 git clone https://github.com/sea-wyq/aiges.git
 cd aiges 
-git remote add upstream https://github.com/iflytek/aiges.git
+git remote add upstream https://github.com/test/aiges.git
 ```
-如果你配置好了 ssh 方式来 clone 代码，当然，git clone 命令用的 url 可以改成：git@github.com:iflytek/aiges.git。
+如果你配置好了 ssh 方式来 clone 代码，当然，git clone 命令用的 url 可以改成：git@github.com:test/aiges.git。
 
 完成这一步后，我们在本地看到的 remote 信息应该是这样的：
 ```bash
@@ -54,8 +54,8 @@ git remote -v
 ```bash
 origin https://github.com/sea-wyq/aiges.git (fetch)
 origin https://github.com/sea-wyq/aiges.git (push)
-upstream https://github.com/iflytek/aiges.git (fetch)
-upstream https://github.com/iflytek/aiges.git (push)
+upstream https://github.com/test/aiges.git (fetch)
+upstream https://github.com/test/aiges.git (push)
 ```
 记住啰，你本地的代码变更永远只提交到 origin，然后通过 origin 提交 Pull Request 到 upstream。
 

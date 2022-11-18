@@ -29,7 +29,7 @@
   },
   "link.item.label.GitHub Issues": {
     "message": "GitHub Issues",
-    "description": "The label of footer link with label=GitHub Issues linking to https://github.com/iflytek/aiges/issues"
+    "description": "The label of footer link with label=GitHub Issues linking to https://github.com/test/aiges/issues"
   },
   "copyright": {
     "message": "Copyright © 2022 My Project, Inc. Built with Docusaurus.",

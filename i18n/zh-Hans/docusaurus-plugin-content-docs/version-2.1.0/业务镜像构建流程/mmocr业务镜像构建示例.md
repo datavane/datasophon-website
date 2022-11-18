@@ -16,7 +16,7 @@ envd bootstrap
 ### 2.克隆aiges项目
 
 ```
-git clone https://github.com/iflytek/aiges.git
+git clone https://github.com/test/aiges.git
 ```
 
 ### 3.进入项目mmocr并执行命令完成项目镜像构建

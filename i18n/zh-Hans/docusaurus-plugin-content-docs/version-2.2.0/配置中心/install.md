@@ -387,7 +387,7 @@ insert  into `tb_role`(`role_name`,`role_type`) values
 /*Data for the table `tb_user` */
 
 insert  into `tb_user`(`id`,`account`,`password`,`user_name`,`phone`,`email`,`create_time`,`update_time`,`role_type`) values 
-('3688919024172793856','admin','b301eba23dc7ab9df6b7315de2ac222a','admin','13739263609','xx@iflytek.com','2021-11-10 10:12:07','2021-12-05 05:20:27',1);
+('3688919024172793856','admin','b301eba23dc7ab9df6b7315de2ac222a','admin','13739263609','xx@test.com','2021-11-10 10:12:07','2021-12-05 05:20:27',1);
 
 insert  into `tb_dic` values
  ('0', '服务配置')，
