@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DataSophon',
-  tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据服务组件和节点的能力，帮助您快速构建起稳定，高效的大数据集群服务',
+  tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台',
   url: 'https://gaodayu168.github.io',
   baseUrl: '/datasophon-website/',
   onBrokenLinks: 'throw',
