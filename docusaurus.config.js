@@ -25,7 +25,12 @@ const config = {
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ["zh-Hans","en"],
-
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+    },
   },
 
   presets: [
@@ -68,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },

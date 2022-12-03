@@ -14,7 +14,7 @@ GRANT ALL PRIVILEGES ON dolphinscheduler.* TO 'dolphinscheduler'@'localhost' IDE
 flush privileges;
 ```
 
-DolphinScheduler导入数据库表详见：https://dolphinscheduler.apache.org/zh-cn/docs/latest/user_doc/guide/howto/datasource-setting.html
+执行/opt/datasophon/DDP/packages目录下**dolphinscheduler_mysql.sql**创建dolphinscheduler数据库表。
 
 添加DolphinScheduler。
 

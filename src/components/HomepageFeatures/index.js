@@ -1,10 +1,11 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: '极易部署',
+    title: <Translate>极易部署</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -13,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '兼容开源生态',
+    title: <Translate>兼容开源生态</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -22,11 +23,11 @@ const FeatureList = [
     ),
   },
   {
-    title: '国产化适配',
+    title: <Translate>兼容复杂环境</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        极简的架构设计，使其极易适配各种国产化环境，支持arm和x86机器混合部署，支持常用国产化操作系统。
+        极简的架构设计，使其极易适配各种复杂环境，支持arm和x86机器混合部署，支持常用的Linux生态操作系统。
       </>
     ),
   },

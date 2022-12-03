@@ -4,22 +4,15 @@ sidebar_label: 添加Hive
 ---
 ## 添加Hive
 
-部署YARN，其中ResourceManager需部署两台作高可用。如下图：
+在数据库中创建Hive数据库。
 
-![image-20221108205713370](../img/image-20221108205713370.png)
+```
+CREATE DATABASE IF NOT EXISTS hive DEFAULT CHARACTER SET utf8;
+grant all privileges on *.* to hive@"%" identified by 'hive' with grant option;
+GRANT ALL PRIVILEGES ON *.* TO 'hive'@'%';
+FLUSH PRIVILEGES;
+```
 
-点击【下一步】，选择NodeManager部署节点。
+![image-20221108211816745](../img/image-20221108211816745.png)
 
-![image-20221108205803797](../img/image-20221108205803797.png)
-
-根据实际情况修改配置。
-
-![image-20221108205921517](../img/image-20221108205921517.png)
-
-点击【下一步】，开始安装YARN。
-
-![image-20221108210037805](../img/image-20221108210037805.png)
-
-安装成功后，即可查看YARN服务总览页面。
-
-![image-20221108210214242](../img/image-20221108210214242.png)
+安装HiveServer2时会执行sql创建Hive的表，在个别情况下会因mysql配置导致sql执行失败，可根据实际失败原因修改mysql配置。
