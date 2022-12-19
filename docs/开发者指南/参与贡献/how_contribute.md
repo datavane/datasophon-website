@@ -8,7 +8,7 @@ title: 如何贡献
 
 ## 如何贡献
 
-首先非常感谢大家选择和使用 Dinky & Apache Flink，真诚地欢迎大家加入 Dinky 社区与 Apache Flink 中文社区，融入开源世界，打造新一代实时计算框架与平台，共建共赢！
+首先非常感谢大家选择和使用 DataSophon，真诚地欢迎大家加入 DataSophon社区，融入开源世界，打造新一代实时计算框架与平台，共建共赢！
 
 我们鼓励任何形式的参与社区，如：
 
@@ -20,9 +20,8 @@ title: 如何贡献
 - 为代码添加注释
 - 为代码添加国际化
 - 提交修复 Bug 或者 Feature 的 PR
-- 发表应用案例实践、扩展组件分享或者与 Flink SQL 相关的技术文章
-- 帮助推广 Dinky，基于 Dinky 实践参与其他社区文章发表、技术大会或者 meetup 的分享等
-- 提供或赞助云服务器资源搭建云 Dinky 学习环境
+- 发表应用案例实践、扩展组件分享或者与 DataSophon相关的技术文章
+- 帮助推广 DataSophon，基于 DataSophon实践参与其他社区文章发表、技术大会或者 meetup 的分享等
 
 欢迎加入贡献的队伍，加入开源从提交第一个 PR 开始
 
@@ -30,15 +29,13 @@ title: 如何贡献
 
 注：贡献不仅仅限于 PR，对促进项目发展的都是贡献
 
-相信参与 Dinky，一定会让您从开源中受益匪浅！
+相信参与 DataSophon，一定会让您从开源中受益匪浅！
 
 ## 参与文档贡献
 
 请查阅 [文档贡献](./document)
- 
-## 参与代码贡献
 
-IDEA 调试请查阅 [本地调试](../local_debug) 及 [远程调试](../remote_debug)
+## 参与代码贡献
 
 贡献请查阅 [Issue 需知](./issue)，[Pull Request 需知](./pull_request)，[Commit Message 需知](./commit_message)
 

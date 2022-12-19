@@ -7,16 +7,16 @@ title: 文档贡献
 
 
 
-良好的使用文档对任何类型的软件都是至关重要的。欢迎任何可以改进 Dinky 文档的贡献。
+良好的使用文档对任何类型的软件都是至关重要的。欢迎任何可以改进 DataSophon文档的贡献。
 
 ### 获取文档项目
 
-Dinky 项目的文档维护在 [dinky-website](https://github.com/DataLinkDC/dinky-website) 。
+DataSophon项目的文档维护在 [datasophon-website](https://github.com/datasophon/datasophon-website) 。
 
 首先你需要先将源项目 fork 到自己的 github 仓库中，然后将 fork 的文档克隆到本地计算机中。
 
 ```shell
-git clone https://github.com/<your-github-user-name>/dinky-website
+git clone https://github.com/<your-github-user-name>/datasophon-website
 ```
 ### 文档环境
 
@@ -26,7 +26,7 @@ Docusaurus 网站由 [Docusaurus](https://docusaurus.io/docs/category/getting-st
 
 ### 文档构建
 
-在 Dinky 的根目录下执行：
+在 文档项目的根目录下执行：
 
 ```shell
 # 推荐

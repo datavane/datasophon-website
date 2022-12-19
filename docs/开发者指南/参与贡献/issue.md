@@ -31,26 +31,10 @@ Issue 是引出一个 Feature 或 Bug 等的重要步骤，在单个 Issue 中�
 
 | 模块名     | 描述                 |
 | ------------ | ---------------------- |
-| admin      | 管理模块             |
-| alert      | 报警模块             |
-| app        | Flink APP 模块       |
-| assembly   | 打包模块             |
-| client     | Flink Client 模块    |
-| common     | 基础模块             |
-| connectors | Flink Connector 模块 |
-| core       | 核心模块             |
-| doc        | 资源模块             |
-| docs       | 官网文档             |
-| executor   | 执行器模块           |
-| extends    | 扩展模块             |
-| function   | Flink UDF 模块       |
-| gateway    | 提交网关模块         |
-| metadata   | 元数据模块           |
-| web        | Web 模块             |
-
-### Issue 内容模板
-
-[Issue 模板](https://github.com/DataLinkDC/dlink/tree/dev/.github/ISSUE_TEMPLATE)
+| api      | web api模块    |
+| common | 公共模块         |
+| dao      | 数据库模块   |
+| worker | worker模块     |
 
 ### Bug 类 Issue
 

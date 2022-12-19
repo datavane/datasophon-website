@@ -8,29 +8,25 @@ title: 提交代码须知
 
 # 提交代码
 
-* 首先从远端仓库 *https://github.com/DataLinkDC/dlink.git*  fork 一份代码到自己的仓库中
+* 首先从远端仓库 *https://github.com/datasophon/datasophon.git*  fork 一份代码到自己的仓库中
 
 * 远端仓库中目前有三个分支：
 
-    * master 正常交付分支
-      发布稳定版本以后，将稳定版本分支的代码合并到 master 上。
-
+    * main正常交付分支
+      发布稳定版本以后，将稳定版本分支的代码合并到 main上。
     * dev 日常开发分支
       日常 dev 开发分支，新提交的代码都可以 pull request 到这个分支上。
-
-    * 0.6.0 发布版本分支
-      发布版本分支，后续会有 1.0... 等版本分支。
-
+    
 * 把自己仓库 clone 到本地
 
   ```sh
-  git clone https://github.com/DataLinkDC/dlink.git
+  git clone https://github.com/datasophon/datasophon.git
   ```
 
 * 添加远端仓库地址，命名为 upstream
 
   ```sh
-  git remote add upstream https://github.com/DataLinkDC/dlink.git
+  git remote add upstream https://github.com/datasophon/datasophon.git
   ```
 
 
@@ -57,11 +53,11 @@ title: 提交代码须知
    git merge --no-ff upstream/dev
   ```
 
-如果远端分支有新加的分支比如`dev-1.0`,需要同步这个分支到本地仓库
+如果远端分支有新加的分支比如`dev-1.1.0`,需要同步这个分支到本地仓库
 
   ```sh
-  git checkout -b dev-1.0 upstream/dev-1.0
-  git push --set-upstream origin dev-1.0
+  git checkout -b dev-1.0 upstream/dev-1.1.0
+  git push --set-upstream origin dev-1.1.0
   ```
 
 * 新建分支
@@ -88,4 +84,4 @@ title: 提交代码须知
 
 * 接着社区 Committer 们会做 CodeReview，然后他会与您讨论一些细节（包括设计，实现，性能等）。当团队中所有人员对本次修改满意后，会将提交合并到 dev 分支
 
-* 最后，恭喜您已经成为了 Dinky 的官方贡献者！
+* 最后，恭喜您已经成为了 DataSophon的官方贡献者！
