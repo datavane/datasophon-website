@@ -36,10 +36,6 @@ Issue 是引出一个 Feature 或 Bug 等的重要步骤，在单个 Issue 中�
 | dao      | 数据库模块   |
 | worker | worker模块     |
 
-### Issue 内容模板
-
-[Issue 模板](https://github.com/DataLinkDC/dlink/tree/dev/.github/ISSUE_TEMPLATE)
-
 ### Bug 类 Issue
 
 当您发现一个 Bug 时，请提交一个 Issue 类的 Bug，提交前：
