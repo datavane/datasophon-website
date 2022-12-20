@@ -8,7 +8,7 @@
     "description": "The label for category Configuration Center in sidebar docSidebar"
   },
   "sidebar.docSidebar.category.Loader": {
-    "message": "架构设计",
+    "message": "Architecture Design",
     "description": "The label for category Loader in sidebar docSidebar"
   },
   "sidebar.docSidebar.category.Release Plan": {

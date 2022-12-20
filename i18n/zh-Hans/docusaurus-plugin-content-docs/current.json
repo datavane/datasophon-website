@@ -15,6 +15,10 @@
     "message": "版本计划",
     "description": "The label for category Release Plan in sidebar docSidebar"
   },
+  "sidebar.docSidebar.category.Dev Guide": {
+    "message": "开发者指南",
+    "description": "The label for category Release Plan in sidebar docSidebar"
+  },
   "sidebar.docSidebar.category.Business Image Construction Process": {
     "message": "业务镜像构建流程",
     "description": "The label for category Business Image Construction Process in sidebar docSidebar"

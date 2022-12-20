@@ -14,5 +14,22 @@ GRANT ALL PRIVILEGES ON dolphinscheduler.* TO 'dolphinscheduler'@'localhost' IDE
 flush privileges;
 ```
 
-DolphinScheduler导入数据库表详见：https://dolphinscheduler.apache.org/zh-cn/docs/latest/user_doc/guide/howto/datasource-setting.html
+执行/opt/datasophon/DDP/packages目录下**dolphinscheduler_mysql.sql**创建dolphinscheduler数据库表。
 
+添加DolphinScheduler。
+
+![image-20221128175432778](../img/image-20221128175432778.png)
+
+![image-20221128175519219](../img/image-20221128175519219.png)
+
+![image-20221128175551807](../img/image-20221128175551807.png)
+
+根据实际情况，修改DolphinScheduler配置。
+
+![image-20221128175644449](../img/image-20221128175644449.png)
+
+开始安装DolphinScheduler，安装成功后可以看到DolphinScheduler总览页面，可以通过WebUi打开DolphinScheduler页面。
+
+![image-20221128180511535](../img/image-20221128180511535.png)
+
+![image-20221128180038155](../img/image-20221128180038155.png)
