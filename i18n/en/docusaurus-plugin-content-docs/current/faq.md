@@ -12,7 +12,7 @@ title: FAQ
 
 一、检查环境配置
 
-- 使用该命令免密登录
+- 使用该命令生成免密登录秘钥
 
 ```
  ssh-keygen -m PEM -t rsa
