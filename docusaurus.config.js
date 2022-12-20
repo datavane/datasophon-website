@@ -27,7 +27,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DataSophon',
   tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台',
-  url: 'https://gaodayu168.github.io',
+  url: 'https://datasophon.github.io',
   baseUrl: '/datasophon-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -35,7 +35,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gaodayu168', // Usually your GitHub org/user name.
+  organizationName: 'datasophon', // Usually your GitHub org/user name.
   projectName: 'datasophon-website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -88,7 +88,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gaodayu168/datasophon-website/',
+            'https://github.com/datasophon/datasophon-website/',
         },
         blog: {
           showReadingTime: true,
@@ -97,7 +97,7 @@ const config = {
           blogSidebarTitle: '全部博文',
           blogSidebarCount: 'ALL',
           editUrl:
-            'https://github.com/gaodayu168/datasophon-websiter',
+            'https://github.com/datasophon/datasophon-websiter',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -138,7 +138,7 @@ const config = {
                 value: '<hr style="margin: 0.3rem 0;">',
               },
               {
-                href: 'https://github.com/gaodayu168/datasophon-website/',
+                href: 'https://github.com/datasophon/datasophon-website/',
                 label: 'Help Us Translate',
               },
             ],
@@ -151,7 +151,7 @@ const config = {
         // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/gaodayu168/datasophon',
+            href: 'https://github.com/datasophon/datasophon',
             label: 'GitHub',
             position: 'right',
           },
@@ -178,7 +178,7 @@ const config = {
               // },
               {
                 label: 'Github Discussion',
-                href: 'https://github.com/gaodayu168/datasophon',
+                href: 'https://github.com/datasophon/datasophon',
               },
               // {
               //   label: 'Twitter',
@@ -195,7 +195,7 @@ const config = {
               },
               {
                 label: 'GitHub Issues',
-                href: 'https://github.com/gaodayu168/datasophon/issues',
+                href: 'https://github.com/datasophon/datasophon/issues',
               },
             ],
           },
