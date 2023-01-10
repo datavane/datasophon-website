@@ -129,9 +129,3 @@ After the deployment is successful, logs can be viewed. Logs are stored in the l
 ## Access page
 
 Access the front-end page address,Interface ip(modify by yourself) [http://192.168.xx.xx:8](http://192.168.xx.xx:12345/dolphinscheduler)888，The default user name and password are admin and admin123
-
-## More details
-
-* Contact:
-
-![weixin](./imgs/weixing.jpg)
