@@ -38,5 +38,13 @@
   "sidebar.docSidebar.category.Alert Manage": {
     "message": "告警管理",
     "description": "The label for category Create Wrapper in sidebar docSidebar"
+  },
+  "sidebar.docSidebar.category.Service Manage": {
+    "message": "服务管理",
+    "description": "The label for category Create Wrapper in sidebar docSidebar"
+  },
+  "sidebar.docSidebar.category.Security Manage": {
+    "message": "安全认证",
+    "description": "The label for category Create Wrapper in sidebar docSidebar"
   }
 }

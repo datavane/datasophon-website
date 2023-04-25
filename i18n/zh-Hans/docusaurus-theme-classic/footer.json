@@ -32,7 +32,7 @@
     "description": "The label of footer link with label=GitHub Issues linking to https://github.com/test/aiges/issues"
   },
   "copyright": {
-    "message": "Copyright © 2022 My Project, Inc. Built with Docusaurus.",
+    "message": "Copyright © 2023 My Project, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }
