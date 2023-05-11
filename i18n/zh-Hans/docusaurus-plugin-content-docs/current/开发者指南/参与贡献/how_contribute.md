@@ -12,6 +12,9 @@ title: 如何贡献
 
 我们鼓励任何形式的参与社区，如：
 
+将遇到的问题通过 github 上 [issue](https://github.com/DataLinkDC/dlink/issues) 的形式反馈出来
+
+- 为开源项目点一个Star
 - 将遇到的问题通过 github 上 [issue](https://github.com/DataLinkDC/dlink/issues) 的形式反馈出来
 - 回答别人遇到的 [issue](https://github.com/DataLinkDC/dlink/issues) 问题
 - 讨论新 Feature 的实现方案
@@ -30,6 +33,18 @@ title: 如何贡献
 注：贡献不仅仅限于 PR，对促进项目发展的都是贡献
 
 相信参与 DataSophon，一定会让您从开源中受益匪浅！
+
+## 点一个Star
+
+- Star的多少关系到项目能否被更多人看到，同时Star也是作者前进的动力(作者每天都在盯着Star 涨了会开心 跌了会失落)
+
+- 大家在寻找开源项目的时候, 大多数情况也是会先看Star比较多的项目，所以请给您觉得好的开源项目点一个小小的Star, 让好的项目能够被更多人看到
+
+  欢迎打开连接点一个小小的star https://github.com/datasophon/datasophon
+
+![image-20230511231809586](./img/image-20230511231809586.png)
+
+
 
 ## 参与文档贡献
 
