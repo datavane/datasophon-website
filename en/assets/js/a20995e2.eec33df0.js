@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkathenaserving=self.webpackChunkathenaserving||[]).push([[162],{124:e=>{e.exports=JSON.parse('{"label":"git","permalink":"/datasophon-website/en/blog/tags/git","allTagsPath":"/datasophon-website/en/blog/tags","count":1}')}}]);

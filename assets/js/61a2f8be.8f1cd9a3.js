@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkathenaserving=self.webpackChunkathenaserving||[]).push([[6426],{8981:e=>{e.exports=JSON.parse('{"label":"opensource","permalink":"/datasophon-website/blog/tags/opensource","allTagsPath":"/datasophon-website/blog/tags","count":1}')}}]);

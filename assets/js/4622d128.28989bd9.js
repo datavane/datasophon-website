@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkathenaserving=self.webpackChunkathenaserving||[]).push([[4719],{1623:a=>{a.exports=JSON.parse('{"label":"athenaserving","permalink":"/datasophon-website/blog/tags/athenaserving","allTagsPath":"/datasophon-website/blog/tags","count":1}')}}]);
