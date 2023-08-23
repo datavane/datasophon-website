@@ -206,7 +206,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+
     }),
+  plugins:[
+    'docusaurus-plugin-less',
+  ]
 };
 
 module.exports = config;
