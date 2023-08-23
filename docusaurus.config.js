@@ -54,7 +54,6 @@ const config = {
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         // config url is: https://github.com/easyops-cn/docusaurus-search-local#theme-options
         hashed: true,
