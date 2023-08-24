@@ -24,7 +24,7 @@ export default function () {
         return <div className="home-wrap">
           <Hero />
           <Feature />
-          <Performance />
+          {/* <Performance /> */}
         </div>;
       }}
     </BrowserOnly>
