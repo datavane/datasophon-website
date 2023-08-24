@@ -8,7 +8,7 @@ import "./performance.less";
 
 export default function () {
   const isBrowser = useIsBrowser();
-  const language = isBrowser && location.pathname.indexOf('/zh-Hans/') === 0 ? 'zh-Hans' : 'en'
+  const language = isBrowser && location.pathname.indexOf('/en/') === 0 ? 'en' : 'zh-Hans'
   const dataSource = config?.[language];
 
   return (

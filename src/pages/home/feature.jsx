@@ -4,7 +4,8 @@ import config from './languages.json'
 
 export default function () {
   const isBrowser = useIsBrowser();
-  const language = isBrowser && location.pathname.indexOf('/zh-Hans/') === 0 ? 'zh-Hans' : 'en'
+  const language = isBrowser && location.pathname.indexOf('/en/') === 0 ? 'en' : 'zh-Hans'
+  console.log('language', language)
   const dataSource = config?.[language];
   return (
     <div className="section bg-light">
