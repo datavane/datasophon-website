@@ -16,7 +16,7 @@ export default function() {
             const nav = document.getElementsByTagName('nav')[0];
             const classList = nav &&  nav.classList;
             if(!classList) return;
-            if (pathname === '/' || pathname === '/zh-CN/') {
+            if (pathname === '/' || pathname === '/zh-Hans/') {
                 classList.add('index-nav');
             } else {
                 classList.remove('index-nav');
