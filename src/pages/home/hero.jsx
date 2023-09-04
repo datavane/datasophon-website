@@ -86,11 +86,11 @@ export default function () {
                 </div>
                 <p className="lead text-light">{dataSource.slogan.description}</p>
               </div>
-              <a className="btn streampark-btn btn mt-30 ztop" href="https://github.com/datavane/datasophon"
+              <a className="btn datasophon-btn btn mt-30 ztop" href="https://github.com/datavane/datasophon"
                 target="_blank">
                 <i className="lni-github-original"></i>&nbsp;GitHub
               </a>
-              <a className="btn streampark-btn btn-green mt-30 ml-3 ztop" href="docs/current/概览"
+              <a className="btn datasophon-btn btn-green mt-30 ml-3 ztop" href="docs/current/概览"
                 style={{ marginLeft: '10px' }}>
                 <i className="lni-play"></i>&nbsp;Get started
               </a>
