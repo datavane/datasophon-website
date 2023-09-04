@@ -95,9 +95,9 @@ export default function () {
                 <i className="lni-play"></i>&nbsp;Get started
               </a>
               <div style={{ marginTop: '20px' }} className="shields ztop">
-                {/* <a href="https://www.apache.org/licenses/LICENSE-2.0.html">
+                <a href="https://www.apache.org/licenses/LICENSE-2.0.html">
                   <img src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg" className="wow fadeInUp"></img>
-                </a> */}
+                </a>
                 <img src="https://img.shields.io/github/stars/datavane/datasophon.svg?sanitize=true" className="wow fadeInUp"></img>
                 <img src="https://img.shields.io/github/forks/datavane/datasophon?sanitize=true" className="wow fadeInUp"></img>
                 <img src="https://img.shields.io/github/languages/count/datavane/datasophon" className="wow fadeInUp"></img>
