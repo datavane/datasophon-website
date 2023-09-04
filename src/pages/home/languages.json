@@ -18,7 +18,7 @@
       "changeLog": "详细变更"
     },
     "slogan": {
-      "key": "让流处理更简单!",
+      "key": "",
       "description": "致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台"
     },
     "feature": [
@@ -52,27 +52,7 @@
         "icon": "lni-display-alt",
         "details": "支持告警组和告警指标管理，监控指标全面丰富，用户可根据监控指标自定义告警组和告警指标。"
       }
-    ],
-    "development": [
-      {
-        "icon": "lni-code",
-        "title": "编写代码",
-        "description": "使用 StreamPark 快速开始开发代码"
-      },
-      {
-        "icon": "lni-bug",
-        "title": "调式代码",
-        "description": "传入约定的任务配置，开始本地代码调式"
-      },
-      {
-        "icon": "lni-bolt-alt",
-        "title": "部署任务",
-        "description": "使用 streampark-console 部署任务和管理任务"
-      }
-    ],
-    "honor" : {
-      "description": "我们获得了些殊荣，这些荣誉属于所有为 StreamPark 做出贡献的人，感谢您的付出！"
-    }
+    ]
   },
   "en": {
     "common": {
@@ -94,8 +74,8 @@
       "changeLog": "Changelog"
     },
     "slogan": {
-      "key": "make stream processing easier!",
-      "description":  "Make stream processing easier! easy-to-use streaming application development framework and operation platform"
+      "key": "",
+      "description":  "致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台"
     },
     "feature": [
       {
@@ -128,26 +108,6 @@
         "icon": "lni-display-alt",
         "details": "支持告警组和告警指标管理，监控指标全面丰富，用户可根据监控指标自定义告警组和告警指标。"
       }
-    ],
-    "development": [
-      {
-        "icon": "lni-code",
-        "title": "Write",
-        "description": "Quickly developing app using streampark-core Api"
-      },
-      {
-        "icon": "lni-bug",
-        "title": "Debug",
-        "description": "Start the app with config and quickly debug the code"
-      },
-      {
-        "icon": "lni-bolt-alt",
-        "title": "Deploy",
-        "description": "Use streampark-console to deploy app"
-      }
-    ],
-    "honor" : {
-      "description": "We have received some precious honors, which belong to everyone who contributes to StreamPark, Thanks"
-    }
+    ]
   }
 }
