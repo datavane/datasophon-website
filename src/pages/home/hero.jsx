@@ -74,7 +74,7 @@ export default function () {
             <div className="text-start mt-0">
               <div className="mb-5 system_info pt-0">
                 <div className="project_title fw-bold text-white mb-3">
-                  <div className="animated-gradient-text_background animated-gradient-text_background-1" style={{ '--content': '"Datavane"', '--start-color': '#00DFD8', '--end-color': '#FFF' }}>
+                  <div className="animated-gradient-text_background animated-gradient-text_background-1 project_title_organization" style={{ '--content': '"Datavane"', '--start-color': '#00DFD8', '--end-color': '#FFF' }}>
                     <span className="animated-gradient-text_foreground animated-gradient-text_foreground-1">Datavane</span>
                   </div>
                   <div className="d-flex  align-items-start">
