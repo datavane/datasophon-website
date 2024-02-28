@@ -14,7 +14,7 @@ A software system deployed on a cluster, such as distributed storage HDFS and di
 
 * Service role
 
-The components of a service. for example HDFS have NameNode，DataNode，SecondryNameNode service role and so on.
+The components of a service. for example HDFS have NameNode，DataNode，SecondaryNameNode service role and so on.
 
 * Service Role Instance
 
