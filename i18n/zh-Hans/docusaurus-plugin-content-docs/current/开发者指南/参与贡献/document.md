@@ -20,7 +20,7 @@ git clone https://github.com/<your-github-user-name>/datasophon-website
 ```
 ### 文档环境
 
-Docusaurus 网站由 [Docusaurus](https://docusaurus.io/docs/category/getting-started) 提供支持。
+DataSophon 网站由 [Docusaurus](https://docusaurus.io/docs/category/getting-started) 提供支持。
 
 请确保你已经安装了 nodejs 和 npm 。详细安装步骤可以查阅本地调试。
 
